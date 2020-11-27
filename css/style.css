@@ -1,0 +1,96 @@
+/* All style 	*/
+	  .regsporets_container{
+  
+   width: 1500px;
+     text-align: center;
+    float: left;
+    margin-top:20px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #B0C4DE;
+
+}
+/* check_in */
+.border_data{
+		width: 710px;
+	}
+
+   .border_sex{
+		width: 180px;
+	}
+
+	.border_birth{
+		width: 270px;
+	}
+
+	.border_rank{
+		width: 480px;
+	}
+
+	.border_certificate{
+		width: 1130px;
+	}
+
+	.burder_camp{
+		width: 280px;
+	}
+
+	.border_club{
+		width: 700px
+	}
+
+	.burder_phone{
+		width: 170px;
+	}
+
+	.border_email{
+		width: 230px;
+	}
+
+/* index */
+	.menu{
+  position: fixed;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#navbar ul{
+        display: none;
+        background-color: #f90;
+        position: absolute;
+        top: 100%;
+      }
+      #navbar li:hover ul { display: block; }
+      #navbar, #navbar ul{
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+      }
+      #navbar {
+        height: 30px;
+        background-color: #666;
+        padding-left: 25px;
+        min-width: 1475px;
+      }
+      #navbar li {
+        float: left;
+        position: relative;
+        height: 100%;
+      }
+      #navbar li a {
+        display: block;
+        padding: 6px;
+        width: 100px;
+        color: #fff;
+        text-decoration: none;
+        text-align: center;
+      }
+      #navbar ul li { float: none; }
+      #navbar li:hover { background-color: #f90; }
+      #navbar ul li:hover { background-color: #666; }
+
+      .exit{
+        position: absolute;
+        top: 0px; right: -1110px;
+      }
